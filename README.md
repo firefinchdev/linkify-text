@@ -38,3 +38,7 @@ LinkifyText(
 
 ## Sample
 <img src="graphics/demo.png" width="400"/>
+
+## License
+
+MIT, see `LICENSE.txt`.
